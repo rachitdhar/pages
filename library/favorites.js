@@ -3,6 +3,7 @@ document.addEventListener('DOMContentLoaded', () => {
         "Literature": [
             "../resources/favorites/Animal_Farm__GeorgeOrwell.jpg",
             "../resources/favorites/Story_of_the_Eye__GeorgesBataille.jpg",
+            "../resources/favorites/The_Epic_of_Gilgamesh.jpg",
         ],
         "Non Fiction": [
             "../resources/favorites/The_God_Delusion__RichardDawkins.jpg",
